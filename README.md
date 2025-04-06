@@ -1,6 +1,3 @@
-# SQL Portfolio Projects
-Welcome to my SQL portfolio! This repository showcases various SQL-based projects that I have worked on, demonstrating my skills in database design, querying, and data analysis. Each project is designed to solve real-world business problems using SQL.
-
 # Projects Overview
 
 # 1.[Coffee Shop Sales Analysis](https://github.com/Simon-vedha/SQL-Projects/tree/7b7a2fb214e67a4f7620f961e49e795d6599479d/Coffee%20Shop%20Sales%20Analysis)
