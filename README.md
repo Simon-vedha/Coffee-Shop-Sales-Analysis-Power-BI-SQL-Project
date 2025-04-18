@@ -35,7 +35,7 @@ A comprehensive business intelligence project analyzing sales data for a copy sh
 
 ## 🚀 Key Features
 
-### Power BI Dashboard
+### [Power BI Dashboard]
 - **Sales Performance Overview**: Revenue, units sold, profit margins
 - **Customer Segmentation**: By purchase frequency and volume
 - **Product Analysis**: Best/worst performing products and services
