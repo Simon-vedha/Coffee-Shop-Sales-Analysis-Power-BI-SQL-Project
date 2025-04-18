@@ -5,11 +5,6 @@
 ## Description
 This project is based on a fictional coffee shop. It includes orders, products, and location data to analyze sales trends and product performance.
 
-## Tables
-- **Orders**: Contains details of all customer orders.
-- **Products**: Stores information about the products offered by the coffee shop.
-- **Locations**: Tracks the geographical locations of the coffee shop outlets.
-
 ## Key Features
 - **Sales Data Analysis**: Analyze overall and per-location sales trends to understand business performance.
 - **Geographical Trends for Product Sales**: Identify which products sell best in different locations.
