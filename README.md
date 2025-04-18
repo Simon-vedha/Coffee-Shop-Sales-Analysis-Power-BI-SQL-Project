@@ -14,10 +14,10 @@ A comprehensive business intelligence project analyzing sales data for a copy sh
 - **Products**: Stores information about the products offered by the coffee shop.
 - **Locations**: Tracks the geographical locations of the coffee shop outlets.
 
-- **SQL Analysis**:  
+## SQL Analysis:  
   Data cleaning, sales analysis, and advanced SQL queries to extract valuable business insights.
 
-- **Power BI Dashboard**:  
+## Power BI Dashboard
   An interactive, dynamic dashboard to visualize key sales metrics and performance trends.
 
 Both analyses are organized into separate folders within this repository for better structure and accessibility.
