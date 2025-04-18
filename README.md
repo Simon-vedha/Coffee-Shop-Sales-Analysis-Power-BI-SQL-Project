@@ -14,22 +14,26 @@ A comprehensive business intelligence project analyzing sales data for a copy sh
 - **Products**: Stores information about the products offered by the coffee shop.
 - **Locations**: Tracks the geographical locations of the coffee shop outlets.
 
-## 🚀 Key Features
+- **SQL Analysis**:  
+  Data cleaning, sales analysis, and advanced SQL queries to extract valuable business insights.
 
-### [Power BI Dashboard]
-- **Sales Performance Overview**: Revenue, units sold, profit margins
-- **Customer Segmentation**: By purchase frequency and volume
-- **Product Analysis**: Best/worst performing products and services
-- **Temporal Trends**: Daily, weekly, monthly sales patterns
-- **Geospatial View**: Customer locations (if data available)
+- **Power BI Dashboard**:  
+  An interactive, dynamic dashboard to visualize key sales metrics and performance trends.
 
-### SQL Analysis
-- **Data Transformation**: Cleaning and preparing raw sales data
-- **Key Metrics Calculation**: 
-  - Average order value
-  - Customer lifetime value
-  - Repeat purchase rate
-- **Time Intelligence**: 
-  - Month-over-month growth
-  - Seasonal patterns
-  - Day-of-week trends
+Both analyses are organized into separate folders within this repository for better structure and accessibility.
+
+## 🛠 Tools & Technologies
+
+- **SQL** (MySQL / MariaDB)
+- **Power BI**
+- **Data Modeling**
+- **Data Visualization**
+
+## 📈 Key Highlights
+
+- Structured and cleaned raw data for efficient analysis.
+- Built SQL Views and Stored Procedures for reusable insights.
+- Performed deep dive sales analysis by store, product, time, and quantity.
+- Developed dynamic KPIs, calendar heatmaps, weekday vs weekend sales comparison, and peak sales time analysis in Power BI.
+
+
