@@ -1,11 +1,6 @@
 # Power BI Dashboard for Coffee Shop Sales Analysis
 [Power Bi Dashboard](https://app.powerbi.com/groups/me/reports/c833682f-f02d-4a86-976e-26c009610a2e/f1c28da43252e3b2a21b?experience=power-bi)
 
-
-## Screenshots
-![image](https://github.com/user-attachments/assets/444e3b2b-b7a3-4cde-8dad-dd4d333ccb23)
-
-
 # 📊 Sales Performance Dashboard (Power BI)
 
 ## 📚 Project Overview
@@ -67,5 +62,7 @@ This Power BI dashboard delivers key insights into **sales performance**, **orde
 - Deep dive into daily, hourly, and category-based sales trends.
 
 ---
+## Screenshots
+![image](https://github.com/user-attachments/assets/444e3b2b-b7a3-4cde-8dad-dd4d333ccb23)
 
 ## 🧡 Thank you for exploring the project!
