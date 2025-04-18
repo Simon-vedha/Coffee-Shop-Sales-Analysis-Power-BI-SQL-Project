@@ -22,7 +22,7 @@ This project is based on a fictional coffee shop. It includes orders, products, 
 # 📊 Copy Shop Sales Analysis - Power BI & SQL
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![SQL](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![SQL](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=MySQL&logoColor=white)
 ![SQL]((https://www.fullstackpython.com/img/logos/mysql))
 
 ## 📌 Overview
